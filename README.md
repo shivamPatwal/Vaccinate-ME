@@ -8,7 +8,7 @@ Vaccinate-Me
   
 <p align="center"
  
-  Download the APK from [here](quora.com/profile/Ashish-Kulkarni-100)
+  Download the APK from [here](https://github.com/shivamPatwal/Vaccinate-ME/blob/master/Vaccinate-Me.apk)
 
   </p>
  
