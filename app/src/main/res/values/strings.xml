@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vaxinate Me</string>
+    <string name="title_home">Search(Pincode)</string>
+    <string name="title_home2">Search(District)</string>
+
+    <string name="title_dashboard">Certificate</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tab_text_1">1</string>
+    <string name="tab_text_2">2</string>
+    <string name="title_home1">Search(District)</string>
+    <string name="about">About</string>
+</resources>

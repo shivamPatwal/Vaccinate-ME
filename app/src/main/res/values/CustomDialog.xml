@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:background">#0D47A1</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+</resources>
