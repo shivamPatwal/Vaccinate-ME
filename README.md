@@ -31,7 +31,19 @@ Co-WIN Public APIs
 
 Co-WIN Public APIs allow any third-party application to access certain un-restricted information, that can be shared with its users. This is limited only to read access in Co-WIN. The extent of access will be limited and in case of any misuse impacting the performance of Co-WIN solution will result in blocking any such application and entities as per the policies of MoHFW and taking any other appropriate action in accordance with law. The appointment availability data is cached and may be up to 5 minutes old. Further, these APIs are subject to a rate limit of 100 API calls per 5 minutes per IP.
 
-<h3 >
-YouTube Demo
-</h3>
+<h3>YouTube Demo</h3>
+<a href="https://youtu.be/M-Npdst4d5s" target="_blank"><img src="http://img.youtube.com/vi/M-Npdst4d5s/0.jpg" 
+alt="Vaccinate-Me Demo" width="240" height="180" border="10" /></a>
 
+<h3>Screenshots</h3>
+<div class="row">
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/1%20slotPincode(home%20fragment).jpg" width="250" title="Home Fragment">
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/2%20slotDistrict.jpg" width="250" title="District">     
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/4%20DistrictSlot.jpg" width="250" title="District Slot">
+</div>
+
+<div class="row">
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/7%20%20certiDownload.jpg" width="250" title="Download Certificate">
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/downloading.jpg" width="250" title="downloading">
+      <img src="https://github.com/shivamPatwal/Vaccinate-ME/blob/master/screenshot/NoInternet.jpg" width="250" title="No internet">
+</div>
